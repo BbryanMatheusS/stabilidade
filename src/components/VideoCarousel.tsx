@@ -8,42 +8,42 @@ import { VideoModal } from './VideoModal';
 
 const videos = [
   {
-    id: 'ALZHF5UqnU4',
-    title: 'Marshmello - Sozinho (Vídeo Oficial)',
-    description: 'Descrição breve do vídeo 1.'
+    id: 'lfcLWibZo1Y',
+    title: 'Planejamento Estratégico vs. Gestão',
+    description: 'Qual a Verdadeira Diferença?'
   },
   {
-    id: 'm7Bc3pLyij0',
+    id: 'lfcLWibZo1Y',
     title: 'Marshmello ft. Bastille - Happier (Clipe Musical Oficial)',
     description: 'Descrição breve do vídeo 2.'
   },
   {
-    id: 'CY8E6N5Nzec',
+    id: 'lfcLWibZo1Y',
     title: 'Marshmello & Anne-Marie - FRIENDS *HINO OFICIAL DA FRIENDZONE*',
     description: 'Descrição breve do vídeo 3.'
   },
   {
-    id: '2vMH8lITTCE',
+    id: 'lfcLWibZo1Y',
     title: 'Marshmello - Verão (Video Musical Oficial) com Lele Pons',
     description: 'Descrição breve do vídeo 4.'
   },
   {
-    id: '1G4isv_Fylg',
+    id: 'lfcLWibZo1Y',
     title: 'Coldplay - Paradise (Official Video)',
     description: 'Descrição breve do vídeo 5.'
   },
   {
-    id: 'yKNxeF4KMsY',
+    id: 'lfcLWibZo1Y',
     title: 'Coldplay - Yellow (Official Video)',
     description: 'Descrição breve do vídeo 6.'
   },
   {
-    id: 'YykjpeuMNEk',
+    id: 'lfcLWibZo1Y',
     title: 'Coldplay - Hymn For The Weekend (Official Video)',
     description: 'Descrição breve do vídeo 7.'
   },
   {
-    id: 'VPRjCeoBqrI',
+    id: 'lfcLWibZo1Y',
     title: 'Coldplay - A Sky Full Of Stars (Official Video)',
     description: 'Descrição breve do vídeo 8.'
   },

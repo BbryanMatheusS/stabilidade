@@ -3,7 +3,7 @@
 import React from 'react';
 
 const WhatsAppButton = () => {
-  const phoneNumber = '5511947499487'; // Altere para seu número com DDI e DDD
+  const phoneNumber = '5511915097126'; // Altere para seu número com DDI e DDD
   const message = 'Olá! Gostaria de mais informações sobre a consultoria.';
 
   const handleClick = () => {
