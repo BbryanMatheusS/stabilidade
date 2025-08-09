@@ -1,4 +1,5 @@
 
+import CalculadoraRetorno from "@/components/Calculo";
 import ContactSection from "@/components/Contact";
 import NossaAtuacao from "@/components/NossaAtuacao";
 import Services from "@/components/Services";
@@ -18,6 +19,7 @@ export default function Home() {
     <VideoCarousel/>
     <TeamCarousel/>
     <ContactSection/>
+    <CalculadoraRetorno/>
     <WhatsAppButton/>
     
     
